@@ -343,6 +343,3 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 Sinta-se à vontade para usar e modificar o código para fins educacionais.
 
 ---
-
-Desenvolvido por **Gabriel Augusto**  
-📧 Contato: [gab.augusto@gmail.com](mailto:gab.augusto@gmail.com)
